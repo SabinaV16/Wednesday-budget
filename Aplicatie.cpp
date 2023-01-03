@@ -3,7 +3,8 @@
 using namespace std;
 int main()
 {
-cout<<"merge";
+cout<<"me";
+
 return 0;
 
 }
